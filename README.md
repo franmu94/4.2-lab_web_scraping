@@ -2,6 +2,8 @@
 
 # Lab | Web Scraping
 
+![nosotros chorizeando datos](https://camo.githubusercontent.com/2354ca5c82a93a2e2e779eb7cd4ab29516a662910bbafcc358f4b6b190f74201/68747470733a2f2f7265637572736f732e6270732e636f6d2e65732f66696c65732f3636352f30302e6a7067)
+
 ## Introduction
 
 As you have learned in the lesson, Web "scraping" (also called "web harvesting", "web data extraction" or even "web data mining"), can be defined as "the construction of an agent to download, parse, and organize data from the web in an automated manner". Or, in other words: instead of a human end-user clicking away in their web browser and copy-pasting interesting parts into, say, a spreadsheet, web scraping offloads this task to a computer program which can execute it much faster, and more correctly, than a human can. 
