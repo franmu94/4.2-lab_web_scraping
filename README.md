@@ -32,6 +32,3 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 [The Anatomy of a Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 
-## Additional Challenges for the Nerds
-
-If you are way ahead of your classmates and willing to accept some tough challenges about Web scraping you will find five bonus questions in the `main.ipynb`. 
